@@ -30,7 +30,10 @@ settings:
     hero_badge_text: Frameworks · Crates · Developer Tooling
     hero_title: Build Faster with
     hero_title_gradient: Rust Tools & Frameworks
-    hero_description: A curated directory of Rust tools and frameworks — web and async frameworks, CLI and developer tooling, databases and ORMs, serialization, WebAssembly, game, embedded and GUI libraries — focused on open-source, actively maintained projects.
+    hero_description: A curated directory of Rust tools and frameworks — web and
+      async frameworks, CLI and developer tooling, databases and ORMs,
+      serialization, WebAssembly, game, embedded and GUI libraries — focused on
+      open-source, actively maintained projects.
   footer:
     subscribe_enabled: true
     version_enabled: true
@@ -48,7 +51,17 @@ metadata:
     update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: Awesome Rust Tools and Frameworks
-    prompt: "A curated directory of Rust tools and frameworks: web frameworks (Axum, Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI toolkits, build and developer tooling (cargo plugins, linters, formatters, test and benchmarking tools), ORMs and database drivers, serialization, networking and HTTP clients, WebAssembly tooling, game and graphics engines, embedded and systems tooling, and popular libraries/crates. Organize by category (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling, Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded, GUI, Testing, Observability, Security, Data & ML) with tags for maturity, license and use case. Focus on open-source, actively maintained projects with documentation and real adoption (GitHub stars, crates.io downloads)."
+    prompt: "A curated directory of Rust tools and frameworks: web frameworks (Axum,
+      Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI toolkits,
+      build and developer tooling (cargo plugins, linters, formatters, test and
+      benchmarking tools), ORMs and database drivers, serialization, networking
+      and HTTP clients, WebAssembly tooling, game and graphics engines, embedded
+      and systems tooling, and popular libraries/crates. Organize by category
+      (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling,
+      Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded,
+      GUI, Testing, Observability, Security, Data & ML) with tags for maturity,
+      license and use case. Focus on open-source, actively maintained projects
+      with documentation and real adoption (GitHub stars, crates.io downloads)."
     providers:
       pipeline: agent-pipeline
       search: tavily
@@ -64,9 +77,30 @@ metadata:
         - rust crates
         - awesome rust
     _processedPluginConfig: {}
-  initial_prompt: "A curated directory of Rust tools and frameworks: web frameworks (Axum, Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI toolkits, build and developer tooling (cargo plugins, linters, formatters, test and benchmarking tools), ORMs and database drivers, serialization, networking and HTTP clients, WebAssembly tooling, game and graphics engines, embedded and systems tooling, and popular libraries/crates. Organize by category (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling, Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded, GUI, Testing, Observability, Security, Data & ML) with tags for maturity, license and use case. Focus on open-source, actively maintained projects with documentation and real adoption (GitHub stars, crates.io downloads)."
+  initial_prompt: "A curated directory of Rust tools and frameworks: web
+    frameworks (Axum, Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and
+    TUI toolkits, build and developer tooling (cargo plugins, linters,
+    formatters, test and benchmarking tools), ORMs and database drivers,
+    serialization, networking and HTTP clients, WebAssembly tooling, game and
+    graphics engines, embedded and systems tooling, and popular
+    libraries/crates. Organize by category (Web Frameworks, Async & Networking,
+    CLI Tools, Developer Tooling, Databases & ORMs, Serialization, WebAssembly,
+    Game Development, Embedded, GUI, Testing, Observability, Security, Data &
+    ML) with tags for maturity, license and use case. Focus on open-source,
+    actively maintained projects with documentation and real adoption (GitHub
+    stars, crates.io downloads)."
 name: Awesome Rust Tools and Frameworks
-initial_prompt: "A curated directory of Rust tools and frameworks: web frameworks (Axum, Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI toolkits, build and developer tooling (cargo plugins, linters, formatters, test and benchmarking tools), ORMs and database drivers, serialization, networking and HTTP clients, WebAssembly tooling, game and graphics engines, embedded and systems tooling, and popular libraries/crates. Organize by category (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling, Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded, GUI, Testing, Observability, Security, Data & ML) with tags for maturity, license and use case. Focus on open-source, actively maintained projects with documentation and real adoption (GitHub stars, crates.io downloads)."
+initial_prompt: "A curated directory of Rust tools and frameworks: web
+  frameworks (Axum, Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI
+  toolkits, build and developer tooling (cargo plugins, linters, formatters,
+  test and benchmarking tools), ORMs and database drivers, serialization,
+  networking and HTTP clients, WebAssembly tooling, game and graphics engines,
+  embedded and systems tooling, and popular libraries/crates. Organize by
+  category (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling,
+  Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded, GUI,
+  Testing, Observability, Security, Data & ML) with tags for maturity, license
+  and use case. Focus on open-source, actively maintained projects with
+  documentation and real adoption (GitHub stars, crates.io downloads)."
 providers:
   pipeline: standard-pipeline
   search: tavily
