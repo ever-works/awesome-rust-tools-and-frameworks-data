@@ -1,0 +1,20 @@
+name: Tide
+description: Tide is a minimal framework similar to Express.js (Node.js),
+  Sinatra (Ruby), and Flask (Python) for rapid development that promotes
+  asynchronously building web apps. It has most of the functionalities you'll
+  find in mature frameworks including routing, auth, sockets, templates,
+  middleware, testing, and other utilities.
+source_url: https://github.com/http-rs/tide
+category: Web Frameworks
+tags:
+  - open-source
+  - backend
+  - async
+markdown: >-
+  ## Overview
+
+
+  Tide is a minimal framework similar to Express.js, designed for rapid
+  development of async web apps. It includes routing, auth, sockets, template
+  engines, middleware, testing, and utility features, built on async-std.
+updated_at: 2026-08-23 08:46

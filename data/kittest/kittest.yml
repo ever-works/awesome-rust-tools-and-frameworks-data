@@ -1,0 +1,12 @@
+name: kittest
+description: kittest is a testing utility crate mentioned in the compatibility matrix.
+source_url: https://crates.io/crates/kittest
+category: Testing
+tags:
+  - testing
+  - crates.io
+featured: false
+markdown: "## Overview\\nkittest is a test utility crate referenced in the
+  article.\\n\\n## Notes\\nFocused on testing; not GUI-specific."
+images: []
+updated_at: 2026-08-23 08:46

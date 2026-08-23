@@ -1,0 +1,41 @@
+name: Macroquad
+description: Macroquad is a simple cross‑platform Rust library for game
+  development focused on minimalism. It targets Windows, Linux, macOS, HTML5,
+  Android and iOS, and abstracts away Rust‑specific syntax to let developers
+  focus on game logic.
+source_url: https://macroquad.rs/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - cross-platform
+markdown: >
+  ## Overview
+
+
+  Macroquad is a cross‑platform Rust library for building games with an emphasis
+  on simplicity and portability.
+
+
+  ## Platforms
+
+
+  - Windows/Linux/macOS
+
+  - HTML5 browsers
+
+  - Android
+
+  - iOS
+
+
+  ## Example
+
+
+  ```rust
+
+  use macroquad::prelude::*;
+
+  ```
+brand: Macroquad
+updated_at: 2026-08-23 08:46

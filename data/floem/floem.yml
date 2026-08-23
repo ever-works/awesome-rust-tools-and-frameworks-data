@@ -1,0 +1,15 @@
+name: Floem
+description: Floem is a Rust GUI library with a focus on declarative UI and
+  performance. The article notes accessibility issues in Floem and iced.
+source_url: https://floem.rs
+category: GUI
+tags:
+  - open-source
+  - rust
+  - declarative
+featured: false
+markdown: "## Overview\\nFloem is a Rust GUI library emphasizing declarative UI
+  and performance.\\n\\n## Notes\\nAccessibility issues are discussed as areas
+  for improvement."
+images: []
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,19 @@
+name: hyper
+description: Hyper is a low-level HTTP library for Rust that is asynchronous by
+  design. It provides client- and server-side APIs and is widely used as the
+  foundation for other libraries (e.g., reqwest).
+source_url: https://hyper.rs/
+category: Async & Networking
+tags:
+  - open-source
+  - async
+  - http
+markdown: >-
+  ## Overview
+
+  hyper is a low-level HTTP library written in Rust. It is asynchronous by
+  design and supports both client-side and server-side APIs. It is a
+  foundational library used by higher-level clients such as reqwest. Features
+  include HTTP/1 and HTTP/2 support, and it is widely used in production. The
+  article notes a strong community and active maintenance.
+updated_at: 2026-08-23 08:46

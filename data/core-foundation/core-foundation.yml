@@ -1,0 +1,22 @@
+name: core-foundation
+description: Core Foundation bindings for macOS, providing lower-level
+  interactions with macOS APIs from Rust.
+source_url: https://github.com/servo/core-foundation-rs
+category: GUI
+tags:
+  - macos
+  - bindings
+  - core-foundation
+featured: false
+markdown: >-
+  ## Overview
+
+  Core Foundation bindings enable access to macOS Core Foundation APIs from
+  Rust.
+
+
+  ## Notes
+
+  Used as a foundation for GUI toolkits on macOS.
+images: []
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,13 @@
+name: Rinf
+description: Rinf is a GUI toolkit that does not use Rust for GUI; included in
+  the discussion as a contrasting option.
+source_url: https://crates.io/crates/rinf
+category: GUI
+tags:
+  - bindings
+  - rust
+featured: false
+markdown: "## Overview\\nRinf is a GUI library that does not rely on Rust for
+  GUI rendering.\\n\\n## Notes\\nUsed as a comparison point in the article."
+images: []
+updated_at: 2026-08-23 08:46

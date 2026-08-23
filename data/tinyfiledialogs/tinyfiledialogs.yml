@@ -1,0 +1,32 @@
+name: tinyfiledialogs
+description: tinyfiledialogs is a C library with Rust bindings providing a
+  handful of basic prompts, including message boxes, text input, and file
+  dialogs.
+source_url: https://sourceforge.net/projects/tinyfiledialogs/
+category: GUI
+tags:
+  - open-source
+  - bindings
+  - cross-platform
+featured: false
+markdown: >-
+  ## Overview
+
+  A small C library with Rust bindings that exposes prompts and file dialogs
+  (message boxes, text input, file dialogs).
+
+
+  ## Features
+
+  - Basic prompt dialogs and file selection dialogs
+
+  - Cross-platform compatibility
+
+
+  ## Notes
+
+  Useful for quick user input without pulling in a full GUI toolkit.
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,32 @@
+name: cargo-geiger
+description: Cargo-geiger is a cargo subcommand that analyzes Rust dependencies
+  to detect usage of unsafe code, helping identify potential security risks
+  across crates. It is invoked as cargo geiger and integrates into the standard
+  Rust tooling workflow.
+source_url: https://crates.io/crates/cargo-geiger
+category: Security
+tags:
+  - open-source
+  - security
+  - static-analysis
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cargo-geiger is a cargo subcommand that analyzes Rust dependencies to detect
+  usage of unsafe code, helping identify potential security risks. It is invoked
+  as cargo geiger and integrates into the Rust toolchain.
+
+
+  ## Features
+
+  - Scans crates for unsafe blocks across dependencies
+
+  - Reports on potential safety issues and areas to review
+
+  - Integrates with standard cargo workflow
+brand: RustSec
+brand_logo_url: ""
+images: []
+updated_at: 2026-08-23 08:46

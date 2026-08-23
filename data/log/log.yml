@@ -1,0 +1,29 @@
+name: log
+description: log is a lightweight logging facade crate that provides a single
+  API and relies on a separate backend crate to perform the actual output.
+  Maintained by the official Rust team, it is widely used as a foundational
+  crate for Rust logging.
+source_url: https://crates.io/crates/log
+category: Observability
+tags:
+  - Rust
+  - Logging
+  - Facade
+featured: false
+markdown: >-
+  ## Overview
+
+
+  log is a lightweight logging facade that provides a single API that abstracts
+  over the actual logging backend. It lets you emit log messages and relies on a
+  separate logger crate for the actual output. Maintained by the official Rust
+  team, it is widely used as a foundational crate for Rust logging.
+
+
+  ## Usage
+
+
+  In typical usage you set the log level and emit messages; the concrete logger
+  behind the facade handles the output.
+images: []
+updated_at: 2026-08-23 08:46

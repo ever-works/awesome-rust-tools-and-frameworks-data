@@ -1,0 +1,27 @@
+name: cargo-audit
+description: Cargo-audit checks Rust dependencies for security advisories and
+  known vulnerabilities, integrating with the cargo workflow to help maintain
+  crate security.
+source_url: https://github.com/rustsec/cargo-audit
+category: Security
+tags:
+  - open-source
+  - security
+  - vulnerability
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cargo-audit checks Rust dependencies for security advisories and known
+  vulnerabilities. It integrates with the cargo workflow to help maintain crate
+  security.
+
+
+  ## Usage
+
+  - Run: cargo audit
+brand: RustSec Advisory Database
+brand_logo_url: ""
+images: []
+updated_at: 2026-08-23 08:46

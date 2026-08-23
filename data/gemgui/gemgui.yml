@@ -1,0 +1,13 @@
+name: GemGui
+description: GemGui is a GUI library mentioned in the table; the article lists
+  it as technically possible but not much detail.
+source_url: https://crates.io/crates/gemgui
+category: GUI
+tags:
+  - bindings
+  - rust
+featured: false
+markdown: "## Overview\\nGemGui is mentioned as technically possible in the
+  discussion.\\n\\n## Notes\\nLimited information in this excerpt."
+images: []
+updated_at: 2026-08-23 08:46

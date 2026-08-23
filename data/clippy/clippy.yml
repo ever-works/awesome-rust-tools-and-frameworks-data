@@ -1,0 +1,27 @@
+name: clippy
+description: Clippy is a collection of lints to catch common mistakes and
+  improve Rust code. It analyzes code for idiomatic issues, potential bugs, and
+  performance concerns, and is invoked via cargo clippy.
+source_url: https://github.com/rust-lang-nursery/rust-clippy
+category: Developer Tooling
+tags:
+  - open-source
+  - lint
+  - static-analysis
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Clippy is a collection of lints to catch common mistakes and improve Rust
+  code. It analyzes code for idiomatic issues, potential bugs, and performance
+  concerns.
+
+
+  ## Usage
+
+  - Run: cargo clippy
+brand: Rust
+brand_logo_url: ""
+images: []
+updated_at: 2026-08-23 08:46

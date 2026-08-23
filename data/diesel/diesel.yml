@@ -1,0 +1,46 @@
+name: Diesel
+description: Diesel is a data mapper and query builder for Rust that can be used
+  as an ORM. It emphasizes compile-time safety via table! macros and supports
+  migrations and model-like querying. It is used at scale, notably powering
+  crates.io via diesel-async.
+source_url: https://diesel.rs
+category: Databases & ORMs
+tags:
+  - open-source
+  - rust
+  - orm
+featured: false
+markdown: >-
+  ## Overview
+
+  Diesel is a Rust ORM-like data mapper and query builder with compile-time
+  checks via table! macros. It supports migrations and provides a way to query
+  through structs, but explicit model-layer concepts are less emphasized. It is
+  used at scale, including crates.io via diesel-async.
+
+
+  ## Features
+
+  - Compile-time safety with table! macros
+
+  - Migrations support
+
+  - Query builder style with type safety
+
+  - Sync-first with async adapters via diesel-async or diesel-deadpool
+
+  - Extensive docs and community resources
+
+
+  ## Trade-offs
+
+  - Steeper learning curve; heavy generic usage
+
+  - Focus on type safety and database-specific features rather than portability
+
+
+  ## Using Diesel with Shuttle
+
+  A community plugin allows using Diesel with Shuttle via diesel-async.
+brand: Diesel Project
+updated_at: 2026-08-23 08:46

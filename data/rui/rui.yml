@@ -1,0 +1,23 @@
+name: rui
+description: rui is a Rust GUI library inspired by SwiftUI, aiming to provide a
+  clean API with a concise state model. The content shows a small App using
+  nested views and a stateful label with a text editor.
+source_url: https://rui.rs/
+category: GUI
+tags:
+  - swiftui-inspired
+  - rust
+featured: false
+markdown: >-
+  ## Overview
+
+
+  rui is a Rust GUI library inspired by SwiftUI. It emphasizes a straightforward
+  state-driven UI.
+
+
+  ## Notes
+
+
+  Accessibility/IME support may be mixed depending on platform.
+updated_at: 2026-08-23 08:46

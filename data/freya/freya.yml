@@ -1,0 +1,14 @@
+name: Freya
+description: Freya is a Rust GUI framework described as basically usable now if
+  you don’t mind bleeding-edge experiments and some jank.
+source_url: https://freya.rs
+category: GUI
+tags:
+  - bleeding-edge
+  - usable
+featured: false
+markdown: "## Overview\\nFreya is a Rust GUI framework aimed at early usability
+  with some rough edges.\\n\\n## Notes\\nBleeding-edge but functional for early
+  adopters."
+images: []
+updated_at: 2026-08-23 08:46

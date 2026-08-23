@@ -1,0 +1,21 @@
+name: cacao
+description: Cacao is a macOS-specific component/toolkit used for Mac GUI
+  development, mentioned alongside other macOS UI bindings.
+source_url: https://crates.io/crates/cacao
+category: GUI
+tags:
+  - macos
+  - bindings
+featured: false
+markdown: >-
+  ## Overview
+
+  Cacao is a macOS-specific UI binding/toolkit referenced in discussions of
+  macOS GUI on Rust.
+
+
+  ## Notes
+
+  Cross-reference with macOS system frameworks.
+images: []
+updated_at: 2026-08-23 08:46

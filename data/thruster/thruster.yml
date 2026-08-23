@@ -1,0 +1,18 @@
+name: Thruster
+description: Thruster is a fast, middleware-based Rust web framework inspired by
+  the layering and design of Koa and Express.js. It is SSL-ready, secure,
+  intuitive, and testable.
+source_url: https://docs.rs/thruster
+category: Web Frameworks
+tags:
+  - open-source
+  - backend
+  - middleware
+markdown: >-
+  ## Overview
+
+
+  Thruster is a fast, middleware-based Rust web framework inspired by
+  Koa/Express. It supports async/await, middleware, error handling, databases,
+  and testing.
+updated_at: 2026-08-23 08:46

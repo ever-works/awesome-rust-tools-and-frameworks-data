@@ -1,0 +1,51 @@
+name: curl-rust
+description: curl-rust offers libcurl bindings for Rust, exposing the
+  functionality of libcurl with Rust safety. It does not provide asynchronous
+  requests, so it can be slower and more resource-heavy than asynchronous
+  options. Use curl-rust when you specifically need curl support or have an
+  existing stack that already relies on curl; it also includes support for
+  protocols such as Telnet, SMTP, FTP, IMAP, and LDAP.
+source_url: https://github.com/alexcrichton/curl-rust
+category: Async & Networking
+tags:
+  - open-source
+  - sync
+  - http
+markdown: >
+  ## Overview
+
+  curl-rust provides libcurl bindings for Rust, exposing libcurl functionality
+  to Rust code. It does not offer asynchronous requests, which can be a
+  limitation for high-concurrency scenarios. It includes support for additional
+  transfer protocols like Telnet, SMTP, FTP, IMAP, and LDAP. It is best used
+  when you need curl integration or have an existing stack that already depends
+  on curl.
+
+
+  ## Usage
+
+  The article includes a POST example showing how to construct a request using
+  curl-rust. For example:
+
+  ```
+
+  use std::io::Read;
+
+  use curl::easy::Easy;
+
+
+  fn main() {
+      let mut data = "this is the body".as_bytes();
+
+      let mut easy = Easy::new();
+      easy.url("http://www.example.com/upload").unwrap();
+      easy.post(true).unwrap();
+      easy.post_field_size(data.len() as u64).unwrap();
+
+      let mut transfer = easy.transfer();
+      transfer.read_function(|buf| { Ok(data.read(buf).unwrap_or(0)) }).unwrap();
+      transfer.perform().unwrap();
+  }
+
+  ```
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,23 @@
+name: Azul
+description: Azul is a Rust GUI framework known for its render/renderer
+  internals and the associated linker challenges; the article highlights linker
+  hell as a notable issue.
+source_url: https://github.com/maps4print/azul
+category: GUI
+tags:
+  - open-source
+  - rust
+  - linker-issues
+featured: false
+markdown: >-
+  ## Overview
+
+  Azul is a Rust GUI framework with a focus on a reactive UI model and a custom
+  renderer.
+
+
+  ## Notes
+
+  The author notes linker issues as a significant pain point.
+images: []
+updated_at: 2026-08-23 08:46

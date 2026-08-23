@@ -1,0 +1,27 @@
+name: rust-analyzer
+description: rust-analyzer is a language server that provides IDE features for
+  Rust, such as go-to-definition, autocomplete, inline errors, and refactoring.
+  It runs as a server in the editor, not a cargo subcommand.
+source_url: https://github.com/rust-analyzer/rust-analyzer
+category: GUI
+tags:
+  - open-source
+  - language-server
+  - IDE
+featured: false
+markdown: >-
+  ## Overview
+
+
+  rust-analyzer is a language server that provides IDE features for Rust. It
+  runs as a server in the editor, offering go-to-definition, autocomplete,
+  inline errors, and refactoring.
+
+
+  ## Usage
+
+  - Install editor integration (e.g., VS Code extension)
+brand: OpenRustLab
+brand_logo_url: ""
+images: []
+updated_at: 2026-08-23 08:46

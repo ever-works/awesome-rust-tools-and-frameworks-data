@@ -1,0 +1,18 @@
+name: QMetaObject
+description: QMetaObject is a Rust binding approach for Qt, aiming to bring Qt
+  bindings into Rust code. The page references a Rust-based approach to Qt
+  bindings with an emphasis on code generation for Qt metadata.
+source_url: https://crates.io/crates/qmetaobject
+category: GUI
+tags:
+  - qt
+  - bindings
+  - rust
+featured: false
+markdown: >
+  ## Overview
+
+
+  QMetaObject provides Qt bindings for Rust. It uses Rust macros and code
+  generation to integrate Qt's metadata system with Rust code.
+updated_at: 2026-08-23 08:46

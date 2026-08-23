@@ -1,0 +1,14 @@
+name: masonry
+description: Masonry is the building-block framework that Xilem is built on top
+  of; a masonry-based UI framework contributing to the Xilem ecosystem.
+source_url: https://crates.io/crates/masonry
+category: GUI
+tags:
+  - framework
+  - rust
+featured: false
+markdown: "## Overview\\nMasonry is a layout framework used by Xilem and other
+  Rust GUI projects.\\n\\n## Notes\\nServes as a foundation for higher-level GUI
+  tooling."
+images: []
+updated_at: 2026-08-23 08:46

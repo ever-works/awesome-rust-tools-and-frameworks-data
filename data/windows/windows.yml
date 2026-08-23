@@ -1,0 +1,24 @@
+name: Windows (Rust bindings)
+description: Windows is an operating system, and here the entry discusses Rust
+  bindings for Windows APIs. The discussion notes that XAML is not included in
+  the Windows crate and describes WinUI 3 support in other bindings.
+source_url: https://github.com/microsoft/windows-rs
+category: GUI
+tags:
+  - windows
+  - bindings
+  - platform
+featured: false
+markdown: >-
+  ## Overview
+
+  Windows APIs have Rust bindings via the windows-rs project. This entry
+  clarifies scope issues for XAML/WinUI 3 and differences from other bindings.
+
+
+  ## Notes
+
+  This is not a GUI toolkit per se, but a platform binding used by GUI apps on
+  Windows.
+images: []
+updated_at: 2026-08-23 08:46

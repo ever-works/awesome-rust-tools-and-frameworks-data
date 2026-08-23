@@ -1,0 +1,15 @@
+name: rend3
+description: rend3 is a 3D rendering library built with Rust and wgpu. It
+  provides a collection of libraries to render 3D graphics in Rust and can be
+  used by game engine developers for building 3D rendering into their engines.
+source_url: https://rend3.org/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - wgpu
+markdown: >
+  ## Overview
+   rend3 is a Rust 3D rendering library built with wgpu; it is not a game engine itself but can be used to render 3D graphics in Rust.
+brand: rend3
+updated_at: 2026-08-23 08:46

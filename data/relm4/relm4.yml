@@ -1,0 +1,24 @@
+name: Relm4
+description: Relm4 is a Rust GUI framework built on GTK 4, offering a
+  higher-level architecture for GTK 4 applications. The content notes similar
+  benefits and caveats as Relm, but with GTK 4 as the target.
+source_url: https://relm4.org/
+category: GUI
+tags:
+  - gtk4
+  - rust
+featured: false
+markdown: >
+  ## Overview
+
+
+  Relm4 provides a GTK 4-based architecture for building GUI apps in Rust using
+  a higher-level abstraction over GTK widgets.
+
+
+  ## Notes
+
+
+  The project is in comparison to Relm and GTK 4 integration and may have
+  varying levels of documentation and community activity.
+updated_at: 2026-08-23 08:46

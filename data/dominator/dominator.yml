@@ -1,0 +1,18 @@
+name: Dominator
+description: Dominator is a GUI framework with web-target support; described as
+  web-specific in the discussion.
+source_url: https://crates.io/crates/dominator
+category: GUI
+tags:
+  - web
+  - bindings
+  - gui
+featured: false
+markdown: |-
+  ## Overview
+  Dominator provides GUI/web-oriented capabilities for Rust apps.
+
+  ## Notes
+  Described as web-specific in the article.
+images: []
+updated_at: 2026-08-23 08:46

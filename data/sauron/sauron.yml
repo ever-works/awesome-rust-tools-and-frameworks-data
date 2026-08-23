@@ -1,0 +1,35 @@
+name: Sauron
+description: Sauron is a micro frontend framework inspired by the Elm
+  Architecture. It supports events, state management, and both client-side and
+  server-side rendering. It has a growing community with a few thousand GitHub
+  stars.
+source_url: https://sauron.rs/
+category: Web Frameworks
+tags:
+  - open-source
+  - frontend
+  - elm-inspired
+markdown: >-
+  ## Overview
+
+
+  Sauron is a micro frontend framework inspired by Elm Architecture. It supports
+  events, state management, and client-side and server-side rendering.
+
+
+  ## Getting started
+
+
+  - Explore examples and tutorials on the Sauron repository and community
+  resources.
+
+
+  ## Features
+
+
+  - Event-driven state management
+
+  - Client-side and server-side rendering
+
+  - Growing community and ecosystem
+updated_at: 2026-08-23 08:46

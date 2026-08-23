@@ -1,0 +1,16 @@
+name: flutter_rust_bridge
+description: flutter_rust_bridge is a bridge to connect Flutter/Dart with Rust,
+  enabling arguments to be exchanged for GUI apps; the article notes state-hell
+  in integration.
+source_url: https://github.com/fzyzcjy/flutter_rust_bridge
+category: GUI
+tags:
+  - bindings
+  - flutter
+  - dart
+featured: false
+markdown: "## Overview\\nFlutter Rust Bridge enables calling Rust from Flutter
+  or vice versa.\\n\\n## Notes\\nState management can be complex in migrations;
+  integration requires careful data handling."
+images: []
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,24 @@
+name: Comfy
+description: Comfy is a simple but powerful and opinionated Rust game engine
+  inspired by Macroquad, raylib and Love2D. It uses the wgpu and winit graphics
+  stack for cross‑platform builds (Wasm, Windows, Linux, macOS).
+source_url: https://comfy.rs/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - wgpu
+markdown: >
+  ## Overview
+
+
+  Comfy is an opinionated Rust game engine inspired by Macroquad and Love2D,
+  built on top of wgpu/winit.
+
+
+  ## Platform support
+
+
+  - Wasm, Windows, Linux, macOS
+brand: Comfy
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,34 @@
+name: Sycamore
+description: Sycamore is a Rust web framework that compiles to WebAssembly. The
+  chat discusses a feature where a 'bind:' modifier supports reactive bindings
+  for attributes, and contrasts it with the Rust keyword handling for
+  attributes. The framework is used as an example alongside Dioxus and Yew in
+  the Rust GUI/WEB ecosystem.
+source_url: https://sycamore.rs/
+category: Web Frameworks
+tags:
+  - wasm
+  - rust
+  - frontend
+featured: false
+markdown: >
+  ## Overview
+
+
+  Sycamore is a Rust web framework for building frontend apps that compile to
+  WebAssembly.
+
+
+  ## Examples
+
+
+  Code examples show a component App with reactive signals and a view using the
+  view! macro and JSX-like syntax.
+
+
+  ## Notes
+
+
+  Sycamore provides a bind: modifier for attributes and uses signals for
+  reactive state.
+updated_at: 2026-08-23 08:46

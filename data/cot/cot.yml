@@ -1,0 +1,20 @@
+name: Cot
+description: Cot is a cutting-edge web framework for building high-performance,
+  async-first APIs in Rust. Built on top of Tokio and Hyper, Cot prioritizes
+  modularity and speed over batteries-included features. It's ideal for
+  developers who want maximum control over their request pipeline and are
+  comfortable assembling tools a la carte.
+source_url: https://github.com/cot-rs/cot
+category: Web Frameworks
+tags:
+  - open-source
+  - backend
+  - async
+markdown: >-
+  ## Overview
+
+
+  Cot is a cutting-edge web framework for building high-performance, async-first
+  APIs in Rust. It is built on top of Tokio and Hyper and emphasizes modularity
+  and speed, without prescribing ORM, templating, or a built-in database layer.
+updated_at: 2026-08-23 08:46

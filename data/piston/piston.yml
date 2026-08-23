@@ -1,0 +1,33 @@
+name: Piston
+description: Piston is a modular, open‑source game engine comprised of a
+  collection of libraries for 2D/3D graphics, image processing, event handling,
+  GUI, sound and animation. Its public API supports inputs like gamepads and
+  mice, and includes an event loop architecture. It also uses a lightweight
+  scripting language called Dyon designed for game engines.
+source_url: https://www.piston.rs/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - modular
+markdown: >+
+  ## Overview
+
+
+  Piston is a modular set of Rust libraries for building games, with separate
+  libraries that can be used independently.
+
+
+  ## Features
+
+
+  - 2D/3D graphics, image processing, input handling, GUI, sound and animation
+  libraries
+
+  - Event loop and support for running project logic within or on a separate
+  thread
+
+  - Dyon scripting language designed for game engines
+
+brand: Piston
+updated_at: 2026-08-23 08:46

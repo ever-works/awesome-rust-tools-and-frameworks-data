@@ -1,0 +1,14 @@
+name: fui
+description: fui is a Rust GUI library; the article lists it among options but
+  notes various issues.
+source_url: https://crates.io/crates/fui
+category: GUI
+tags:
+  - bindings
+  - rust
+featured: false
+markdown: "## Overview\\nfui is a Rust GUI library mentioned among
+  options.\\n\\n## Notes\\nStatus and maturity vary; refer to crate docs for
+  details."
+images: []
+updated_at: 2026-08-23 08:46

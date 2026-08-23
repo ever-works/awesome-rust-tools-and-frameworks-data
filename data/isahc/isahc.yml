@@ -1,0 +1,17 @@
+name: Isahc
+description: Isahc is a high-level HTTP client with both asynchronous and
+  synchronous interfaces, built on top of curl. It combines ergonomic API with
+  curl’s stability and wide protocol support, including HTTP/1.1 and HTTP/2.
+source_url: https://crates.io/crates/isahc
+category: Async & Networking
+tags:
+  - open-source
+  - http
+  - curl
+markdown: >-
+  ## Overview
+
+  Isahc wraps curl under a stable Rust API, providing both synchronous and
+  asynchronous HTTP requests. It includes support for HTTP/1.1 and HTTP/2,
+  configurable timeouts, and cookie persistence.
+updated_at: 2026-08-23 08:46

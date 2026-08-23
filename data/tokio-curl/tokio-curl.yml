@@ -1,0 +1,15 @@
+name: tokio-curl
+description: Tokio-curl provides a futures-based interface to libcurl for
+  asynchronous HTTP requests in Rust, using the Tokio runtime.
+source_url: https://github.com/alexcrichton/tokio-curl
+category: Async & Networking
+tags:
+  - open-source
+  - async
+  - http
+markdown: >-
+  ## Overview
+
+  Tokio-curl provides a futures-based interface to libcurl for asynchronous HTTP
+  requests in Rust, using the Tokio runtime.
+updated_at: 2026-08-23 08:46

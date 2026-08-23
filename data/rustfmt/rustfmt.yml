@@ -1,0 +1,39 @@
+name: rustfmt
+description: Rustfmt is the community standard for Rust code formatting. It
+  reformats source files to match a strict set of rules and is commonly invoked
+  via the cargo fmt subcommand. The default rustfmt configuration represents the
+  convention, with rustfmt.toml available to customize behavior; if configured,
+  the config file should be committed to CI to avoid CI-local differences.
+source_url: https://github.com/rust-lang/rustfmt
+category: Web Frameworks
+tags:
+  - open-source
+  - formatter
+  - code-style
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Rustfmt is the community standard for code style. It reformats your source
+  files to match a strict set of rules and is invoked via cargo fmt. The default
+  configuration is the convention, but a rustfmt.toml config file can be used
+  (and if configured, should be committed to CI).
+
+
+  ## Features
+
+  - Automatic formatting of Rust source files to a consistent style
+
+  - Deterministic output across environments
+
+  - Configurable via rustfmt.toml (optional) and enforced by CI
+
+
+  ## Usage
+
+  - Run: cargo fmt
+brand: Rust
+brand_logo_url: ""
+images: []
+updated_at: 2026-08-23 08:46

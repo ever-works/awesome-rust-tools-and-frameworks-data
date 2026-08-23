@@ -1,0 +1,18 @@
+name: Dioxus
+description: Dioxus is a Rust UI library and toolchain for building
+  high-performance, portable user interfaces with a focus on Rust and
+  WebAssembly.
+source_url: https://dioxuslabs.com/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - web-framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Dioxus is a Rust UI library for building portable UIs with a focus on
+  WebAssembly and performance.
+updated_at: 2026-08-23 08:46

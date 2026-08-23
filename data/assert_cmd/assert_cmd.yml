@@ -1,0 +1,33 @@
+name: assert_cmd
+description: Assert_cmd is a Rust crate designed to simplify integration testing
+  of CLI applications by locating the binary to test and asserting the program's
+  exit status and output.
+source_url: https://crates.io/crates/assert_cmd
+category: Testing
+tags:
+  - rust
+  - open-source
+  - cli
+markdown: >
+  ## Overview
+
+
+  Assert_cmd provides utilities to run a compiled binary and make assertions
+  about its behavior, enabling reliable integration testing of command-line
+  interfaces.
+
+
+  ## Example
+
+
+  ```rust
+
+  use assert_cmd::Command;
+
+
+  let mut cmd = Command::cargo_bin("my-cli-app").unwrap();
+
+  cmd.assert().success();
+
+  ```
+updated_at: 2026-08-23 08:46

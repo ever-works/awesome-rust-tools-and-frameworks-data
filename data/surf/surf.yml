@@ -1,0 +1,20 @@
+name: Surf
+description: Surf is a modular, asynchronous HTTP client with a middleware
+  system. It can use a curl-native client by default, or alternative backends
+  like curl-client or hyper-client. It focuses on extensibility and streaming
+  capabilities.
+source_url: https://http-rs.github.io/surf
+category: Async & Networking
+tags:
+  - open-source
+  - async
+  - http
+markdown: >-
+  ## Overview
+
+  Surf is an extensible, asynchronous HTTP client with a middleware system. It
+  can use curl as the default native client, and supports alternatives like
+  curl-client or hyper-client. Notable features include middleware
+  extensibility, connection reuse, streaming requests/responses, and
+  HTTP/2/TLS-by-default.
+updated_at: 2026-08-23 08:46

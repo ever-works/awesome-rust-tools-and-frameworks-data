@@ -1,0 +1,27 @@
+name: LVGL
+description: LVGL (Light and Versatile Graphics Library) is a small,
+  feature-rich GUI library written in C for embedded devices. The Rust bindings
+  expose a no_std-friendly interface by default, making LVGL suitable for
+  bare-metal targets. The content describes C header configurations and
+  Windows-related build issues when binding LVGL via Rust.
+source_url: https://lvgl.io/
+category: GUI
+tags:
+  - embedded
+  - no_std
+  - bindings
+featured: false
+markdown: >
+  ## Overview
+
+
+  LVGL is a C GUI library designed for embedded use. The Rust bindings are
+  no_std-friendly by default.
+
+
+  ## Notes
+
+
+  Configuring LVGL bindings can require header and build setup; Windows-specific
+  compilation can present issues (missing headers, SDL deps, bindgen, etc.).
+updated_at: 2026-08-23 08:46

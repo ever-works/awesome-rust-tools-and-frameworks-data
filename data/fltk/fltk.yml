@@ -1,0 +1,13 @@
+name: fltk
+description: FLTK bindings for Rust (fltk-rs). The article notes it has 'yes!'
+  support and an extra crate, and it is cross-platform.
+source_url: https://github.com/fltk-rs/fltk-rs
+category: GUI
+tags:
+  - bindings
+  - cross-platform
+featured: false
+markdown: "## Overview\\nfltk-rs provides bindings to the FLTK GUI
+  toolkit.\\n\\n## Notes\\nCross-platform with optional extra crates."
+images: []
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,14 @@
+name: egui
+description: egui is a pure Rust immediate mode GUI library that emphasizes a
+  straightforward, code-first approach to building UIs.
+source_url: https://github.com/emilk/egui
+category: GUI
+tags:
+  - immediate-mode
+  - rust
+featured: false
+markdown: "## Overview\\negui is a Rust GUI library with an immediate-mode
+  design.\\n\\n## Notes\\nPromotes writing UI code in a straightforward,
+  imperative style."
+images: []
+updated_at: 2026-08-23 08:46

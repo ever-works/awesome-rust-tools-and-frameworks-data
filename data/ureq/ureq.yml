@@ -1,0 +1,17 @@
+name: ureq
+description: Ureq is a minimal, blocking HTTP client with a focus on simplicity
+  and safety. It avoids unsafe Rust, keeps dependencies small, and emphasizes
+  fast compile times. It does not support asynchronous functionality.
+source_url: https://github.com/algesten/ureq
+category: Async & Networking
+tags:
+  - open-source
+  - sync
+  - http
+markdown: >-
+  ## Overview
+
+  Ureq provides a small, blocking HTTP client with a minimal dependency tree. It
+  is designed for simplicity and safety, avoiding unsafe Rust and asynchronous
+  support.
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,13 @@
+name: KAS
+description: KAS is a GUI library mentioned in the compatibility matrix with
+  support status; details vary.
+source_url: https://crates.io/crates/kas
+category: GUI
+tags:
+  - bindings
+  - rust
+featured: false
+markdown: "## Overview\\nKAS is a Rust GUI library noted in the summary
+  table.\\n\\n## Notes\\nMaturity and platform support vary."
+images: []
+updated_at: 2026-08-23 08:46

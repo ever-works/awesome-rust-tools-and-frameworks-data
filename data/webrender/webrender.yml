@@ -1,0 +1,25 @@
+name: WebRender
+description: WebRender is a low-level graphics crate originally part of Servo,
+  focused on rendering shapes for high-performance UIs and browsers. It is not a
+  high-level GUI toolkit, but provides the rendering substrate used by more
+  complete UI systems.
+source_url: https://github.com/servo/webrender
+category: GUI
+tags:
+  - low-level
+  - graphics
+  - rust
+featured: false
+markdown: >-
+  ## Overview
+
+  WebRender is a low-level rendering engine used in Servo for efficient
+  rendering of shapes.
+
+
+  ## Notes
+
+  It does not provide widgets; it serves as a rendering backend for GUI
+  frameworks.
+images: []
+updated_at: 2026-08-23 08:46

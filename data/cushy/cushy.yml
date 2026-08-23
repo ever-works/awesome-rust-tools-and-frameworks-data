@@ -1,0 +1,15 @@
+name: Cushy
+description: Cushy is a GUI-related project mentioned in a feature matrix with
+  statuses; details are limited in the text.
+source_url: https://crates.io/crates/cushy
+category: GUI
+tags:
+  - bindings
+  - gui
+  - matrix
+featured: false
+markdown: "## Overview\\nCushy is a GUI project with limited details in the
+  discussion.\\n\\n## Notes\\nStatus in the matrix suggests partial
+  functionality."
+images: []
+updated_at: 2026-08-23 08:46

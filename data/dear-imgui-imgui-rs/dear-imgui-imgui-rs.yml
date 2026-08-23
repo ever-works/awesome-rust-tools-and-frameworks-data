@@ -1,0 +1,42 @@
+name: Dear ImGui (imgui-rs)
+description: Dear ImGui is a minimalist C++ GUI library with Rust bindings; it
+  is designed for integration with existing game engines and renders through
+  multiple backends. The Rust ecosystem has bindings like imgui-rs and multiple
+  renderers/backends such as imgui-glow-renderer and imgui-winit-support, with
+  others being deprecated.
+source_url: https://github.com/imgui-rs/imgui
+category: GUI
+tags:
+  - rust
+  - bindings
+  - gui
+featured: false
+markdown: >
+  ## Overview
+
+
+  Dear ImGui (the C++ library) has Rust bindings via the imgui-rs project. It is
+  designed to be embedded in existing engines and supports multiple renderers
+  and backends.
+
+
+  ## Bindings/Backends
+
+
+  - imgui-rs core bindings
+
+  - imgui-winit-support
+
+  - winit integration
+
+  - imgui-glow-renderer (render backend)
+
+  - imgui-glium-renderer (deprecated)
+
+
+  ## Notes
+
+
+  The ecosystem includes multiple renderers and there has been some churn with
+  deprecated backends.
+updated_at: 2026-08-23 08:46

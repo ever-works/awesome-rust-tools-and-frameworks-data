@@ -1,0 +1,26 @@
+name: Probe Run
+description: Tool to flash firmware and debug embedded projects. Once set up,
+  you can compile, flash, and debug from a terminal using cargo run when a
+  hardware probe is connected.
+source_url: https://github.com/knurling-rust/probe-run
+category: Embedded
+tags:
+  - open-source
+  - embedded
+  - debugging
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Probe Run is used to flash firmware. Once set up, you can compile, flash, and
+  debug from a terminal, using cargo run, if you have a hardware probe
+  connected.
+
+
+  ## Use Case
+
+  - Works with cargo; integrates with Probe Run.
+brand: Knurling
+images: []
+updated_at: 2026-08-23 08:46

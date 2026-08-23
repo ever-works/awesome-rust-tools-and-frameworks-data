@@ -1,0 +1,27 @@
+name: Slint
+description: Slint (formerly SixtyFPS) is a Rust GUI DSL with its own engine and
+  two-way data binding. It ships with C++, JavaScript, and Python bindings and
+  aims to provide native UI with a separate DSL rather than Rust macros. The
+  project emphasizes accessibility improvements and cross-language bindings.
+source_url: https://slint-ui.org/
+category: GUI
+tags:
+  - dsl
+  - two-way-binding
+  - bindings
+featured: false
+markdown: >
+  ## Overview
+
+
+  Slint is a GUI DSL with its own language and supports data binding via a
+  two-way binding operator (<=>). It provides bindings for C++, JS, and Python,
+  and can be used from Rust without relying on macros.
+
+
+  ## Accessibility
+
+
+  The project has seen improvements in accessibility and IME support, and the
+  DSL language has its own compilation errors and messaging.
+updated_at: 2026-08-23 08:46

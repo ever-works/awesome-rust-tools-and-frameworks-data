@@ -1,0 +1,30 @@
+name: nannou
+description: nannou is an open source game framework that acts as a toolkit for
+  graphics, audio, lasers, lighting and more. It is aimed at artists and
+  creators and emphasizes Rust‑first libraries with examples and a Rust‑only
+  tooling approach.
+source_url: https://nannou.org/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - graphics
+markdown: >+
+  ## Overview
+
+
+  nannou is a Rust‑first game framework with a focus on creative tooling and
+  artist workflow.
+
+
+  ## Features
+
+
+  - Graphics, audio, lasers, lighting and more
+
+  - Rust‑only libraries; cargo build workflow
+
+  - Interoperability with C/C++ via bindgen when needed
+
+brand: nannou
+updated_at: 2026-08-23 08:46

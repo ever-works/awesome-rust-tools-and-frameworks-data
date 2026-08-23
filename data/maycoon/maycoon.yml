@@ -1,0 +1,14 @@
+name: Maycoon
+description: Maycoon is a GUI library mentioned as having no text input widget;
+  status in the matrix indicates incomplete capabilities.
+source_url: https://crates.io/crates/maycoon
+category: GUI
+tags:
+  - bindings
+  - rust
+featured: false
+markdown: "## Overview\\nMaycoon is a GUI toolkit with no text input widget
+  mentioned in the discussion.\\n\\n## Notes\\nStatus in the matrix suggests
+  partial functionality."
+images: []
+updated_at: 2026-08-23 08:46

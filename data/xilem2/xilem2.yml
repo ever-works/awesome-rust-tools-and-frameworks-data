@@ -1,0 +1,18 @@
+name: Xilem
+description: Xilem is a novel pure-Rust framework built on top of masonry, the
+  successor to Druid. It emphasizes a compact, widget-based approach and a
+  modern event loop model.
+source_url: https://github.com/linebender/xilem
+category: GUI
+tags:
+  - experimental
+  - rust
+  - framework
+featured: false
+markdown: |-
+  ## Overview
+  Xilem is a newer pure-Rust GUI framework built on Masonry.
+  \n## Notes
+  It aims for simplicity and a modern architecture; development is ongoing.
+images: []
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,38 @@
+name: Poem
+description: Poem is a Rust web framework designed for simplicity, speed, and
+  reliability. It is built on top of Hyper and Tokio, providing fast
+  asynchronous web applications with a focus on type-safety and ease of use.
+source_url: https://poem.rs/
+category: Web Frameworks
+tags:
+  - open-source
+  - rust
+  - web-framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Poem is a Rust web framework built on Hyper and Tokio, designed for high
+  performance and simplicity.
+
+
+  ## Features
+
+
+  - OpenAPI support for API documentation
+
+  - Middleware system for custom logic
+
+  - Async support via Tokio
+
+  - Type safety
+
+  - Easy-to-use API
+
+
+  ## Usage
+
+
+  Sample app demonstrates a route with a hello handler.
+updated_at: 2026-08-23 08:46

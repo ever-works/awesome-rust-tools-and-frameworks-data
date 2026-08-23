@@ -1,0 +1,18 @@
+name: Dropshot
+description: Dropshot is a simple and lightweight server-side library for
+  creating REST APIs. It has support for OpenAPI specs, async, and logging. It's
+  not a full web framework (at least, not for all web development use cases).
+source_url: https://crates.io/crates/dropshot
+category: Web Frameworks
+tags:
+  - open-source
+  - backend
+  - api
+markdown: >-
+  ## Overview
+
+
+  Dropshot is a lightweight REST API library with OpenAPI support, async
+  capabilities, and logging. It is not a full web framework but can be used to
+  expose a focused set of APIs.
+updated_at: 2026-08-23 08:46

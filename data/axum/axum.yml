@@ -1,0 +1,38 @@
+name: Axum
+description: Axum is a Rust web framework built on top of Tower and Hyper,
+  designed to be robust, performant, reliable, and ergonomic. It integrates with
+  Tokio for asynchronous runtime and leverages the Tower and tower-http
+  ecosystems to provide middleware, services, and utilities. Axum emphasizes
+  flexibility and type safety for building modular, scalable web applications.
+source_url: https://axum.rs/
+category: Web Frameworks
+tags:
+  - open-source
+  - rust
+  - web-framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Axum is a Rust web framework built on top of Tower and Hyper, designed to be
+  robust, performant, and ergonomic. It integrates with Tokio for asynchronous
+  runtime and leverages the Tower and tower-http ecosystems, providing a rich
+  set of middleware, services, and utilities.
+
+
+  ## Features
+
+
+  - Routing, middleware, extracting request data, and handling responses
+
+  - Focus on type safety and concise APIs
+
+  - Designed for scalability and high performance
+
+
+  ## Usage
+
+
+  The example shows a simple router example and a Hello, World! response.
+updated_at: 2026-08-23 08:46

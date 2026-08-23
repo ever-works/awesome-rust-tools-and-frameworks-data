@@ -1,0 +1,25 @@
+name: Ribir
+description: Ribir is a Rust GUI framework that markets itself as non-intrusive,
+  allowing GUI components to read and write model objects directly. The page
+  describes it but notes that its macro-based code may be challenging to get
+  working.
+source_url: https://ribir.org/
+category: GUI
+tags:
+  - rust
+  - gui
+featured: false
+markdown: >
+  ## Overview
+
+
+  Ribir markets itself as non-intrusive Rust GUI framework that reads/writes
+  model objects directly.
+
+
+  ## Notes
+
+
+  Macro magic can be opaque; the current example shows it may not work as
+  expected.
+updated_at: 2026-08-23 08:46

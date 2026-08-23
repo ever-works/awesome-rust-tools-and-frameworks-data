@@ -1,0 +1,16 @@
+name: Iced
+description: Iced is a Rust GUI library inspired by Elm; the article notes
+  accessibility issues and quality concerns, but suggests it remains a viable
+  option.
+source_url: https://iced.rs/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - elm-inspired
+featured: false
+markdown: "## Overview\\nIced is a Rust GUI library with an Elm-inspired
+  architecture.\\n\\n## Notes\\nAccessibility and consistency issues mentioned;
+  still a viable option for many apps."
+images: []
+updated_at: 2026-08-23 08:46

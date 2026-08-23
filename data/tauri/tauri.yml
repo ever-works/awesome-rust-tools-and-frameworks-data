@@ -1,0 +1,28 @@
+name: Tauri
+description: Tauri is a cross-platform framework for building desktop apps with
+  Rust and web technologies; it uses system web engines (WebView2/WebKit) for
+  rendering and does not bundle separate browser instances. It has bindings to
+  popular frontend frameworks in Rust such as Dioxus and Leptos, and can
+  integrate with various frontend stacks.
+source_url: https://tauri.app/
+category: Web Frameworks
+tags:
+  - rust
+  - webview
+  - frontend
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tauri enables building desktop apps using Rust with web technologies, binding
+  to system web engines.
+
+
+  ## Frontend Options
+
+
+  Within Tauri projects you can use front-end frameworks like Dioxus, Leptos,
+  Sycamore, Yew, among others; the default wizard may vary in behavior across
+  versions.
+updated_at: 2026-08-23 08:46

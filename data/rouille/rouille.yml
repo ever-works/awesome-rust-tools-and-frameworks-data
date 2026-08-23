@@ -1,0 +1,19 @@
+name: Rouille
+description: Rouille is a microweb framework that employs a linear
+  request/response design via a listening socket. It is built for simple
+  applications and does not come with batteries included, but is agnostic enough
+  to allow you to integrate other libraries for features like middleware.
+source_url: https://rouille.rs/
+category: Web Frameworks
+tags:
+  - open-source
+  - backend
+  - microframework
+markdown: >-
+  ## Overview
+
+
+  Rouille is a microweb framework that uses a basic request/response model. It
+  is designed for simple applications and does not include batteries-included
+  features, but can be extended by integrating other libraries as needed.
+updated_at: 2026-08-23 08:46

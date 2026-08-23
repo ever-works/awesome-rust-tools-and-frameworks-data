@@ -1,0 +1,30 @@
+name: Vizia
+description: Vizia is a Rust GUI library featuring a declarative, data-driven
+  approach with widget composition. It demonstrates a model with AppData and
+  AppEvent, Lens-driven state, and a simple vertical layout with Label and
+  Textbox widgets.
+source_url: https://crates.io/crates/vizia
+category: GUI
+tags:
+  - open-source
+  - rust
+  - declarative
+featured: false
+markdown: >-
+  ## Overview
+
+  Vizia is a Rust GUI library described as a declarative UI framework with a
+  Lens-based state model.
+
+
+  ## Example
+
+  AppData { label: String } and AppEvent::SetText(String) drive the example
+  where a Label and a Textbox reflect and update state.
+
+
+  ## Notes
+
+  The project emphasizes using the Git repository for the latest changes.
+images: []
+updated_at: 2026-08-23 08:46

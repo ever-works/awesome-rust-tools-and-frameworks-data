@@ -1,0 +1,42 @@
+name: Bevy
+description: Bevy is a simple, data-driven game engine built around an ECS
+  design. It supports 2D and 3D rendering, includes Bevy UI for in-code or
+  scene-based UI, and supports hot asset reloading for rapid iteration. The
+  project is actively developed and subject to breaking changes as it evolves.
+source_url: https://bevyengine.org/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - ecs
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bevy is a data-driven game engine for Rust built around an Entity Component
+  System (ECS). It enables modular game development with a focus on data-driven
+  design.
+
+
+  ## Features
+
+
+  - ECS-based architecture for modularity
+
+  - 2D and 3D rendering
+
+  - Bevy UI for dynamic interfaces (in code or scene format)
+
+  - Graph-based rendering flow
+
+  - Hot asset reloading via the default plugin
+
+
+  ## Notes
+
+
+  Bevy is still under active development and may introduce breaking changes in
+  minor releases.
+brand: Bevy
+updated_at: 2026-08-23 08:46

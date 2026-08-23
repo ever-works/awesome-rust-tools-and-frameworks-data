@@ -1,0 +1,25 @@
+name: relm
+description: relm is a Rust GUI toolkit inspired by Elm, built on GTK 3
+  bindings. The project emphasizes a message-driven architecture and GTK-based
+  rendering. It is referenced as part of the GTK-3 bindings ecosystem and is
+  challenged by Unix-style path issues in some environments.
+source_url: https://relm.rs/
+category: GUI
+tags:
+  - gtk3
+  - rust
+featured: false
+markdown: >
+  ## Overview
+
+
+  relm provides a GTK3-based architecture inspired by Elm for building GUI apps
+  in Rust.
+
+
+  ## Notes
+
+
+  The content notes that GTK3 bindings are unmaintained and some UNIX-centric
+  path issues may affect builds. The project’s maturity may vary by environment.
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,28 @@
+name: Makepad
+description: Makepad is a Rust-based GUI framework featuring a macro DSL for
+  building interfaces. The project publishes crates on crates.io but does not
+  consistently align version tags with Git tags, so examples on the main branch
+  are often the most reliable reference. It provides live_design style DSL
+  blocks for UI definition.
+source_url: https://makepad.dev/
+category: GUI
+tags:
+  - rust
+  - gui
+  - dsl
+featured: false
+markdown: >
+  ## Overview
+
+
+  Makepad is a novel Rust GUI framework with a macro DSL. The API examples show
+  a DSL to describe UI structure.
+
+
+  ## Notes
+
+
+  Crates.io versions may not align with Git tags, which can complicate following
+  published examples. The core essence is to translate UI from DSL into runtime
+  widgets.
+updated_at: 2026-08-23 08:46

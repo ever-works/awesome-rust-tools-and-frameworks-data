@@ -1,0 +1,22 @@
+name: ggez
+description: ggez is a Rust game development library providing a 2D game
+  framework with APIs for drawing, sound, resources and event handling, aiming
+  to be lightweight and with a design inspired by Love2D.
+source_url: https://ggez.rs/
+category: GUI
+tags:
+  - open-source
+  - rust
+  - 2d
+markdown: |+
+  ## Overview
+
+  ggez is a Rust library for building 2D games with a simple API.
+
+  ## Features
+
+  - 2D drawing, audio, resources, input and events
+  - Lightweight, easy to pick up
+
+brand: ggez
+updated_at: 2026-08-23 08:46

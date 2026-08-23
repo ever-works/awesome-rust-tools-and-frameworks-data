@@ -1,0 +1,13 @@
+name: Pax
+description: Pax is a GUI library mentioned with no Windows support;
+  cross-platform differences noted.
+source_url: https://crates.io/crates/pax
+category: GUI
+tags:
+  - bindings
+  - windows-unsupported
+featured: false
+markdown: "## Overview\\nPax is a Rust GUI library with limited Windows
+  support.\\n\\n## Notes\\nOS availability varies."
+images: []
+updated_at: 2026-08-23 08:46

@@ -1,0 +1,22 @@
+name: Tk
+description: Tk is the GUI framework for Tcl with Rust bindings. The blog notes
+  its use with two-way binding patterns and shows bindings via a r#type
+  workaround for Rust reserved keywords.
+source_url: https://www.tcl.tk/
+category: GUI
+tags:
+  - bindings
+  - cross-platform
+featured: false
+markdown: >-
+  ## Overview
+
+  Tk is the classic Tcl GUI toolkit with Rust bindings.
+
+  \n## Notes
+
+  The Rust bindings demonstrate how to work around language keyword constraints
+  using r#type in attribute bindings. It shows two-way state patterns using
+  Label and Entry widgets.
+images: []
+updated_at: 2026-08-23 08:46
