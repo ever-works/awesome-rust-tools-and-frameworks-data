@@ -33,7 +33,7 @@
 - id: core-foundation
   name: Core Foundation
 - id: orm
-  name: Orm
+  name: ORM
 - id: backend
   name: Backend
 - id: async
@@ -47,7 +47,7 @@
 - id: sync
   name: Sync
 - id: http
-  name: Http
+  name: HTTP
 - id: matrix
   name: Matrix
 - id: qt
@@ -152,3 +152,27 @@
   name: Platform
 - id: experimental
   name: Experimental
+- id: high-performance
+  name: High Performance
+- id: actor-model
+  name: Actor Model
+- id: websocket
+  name: WebSocket
+- id: type-safe
+  name: Type Safe
+- id: query-builder
+  name: Query Builder
+- id: compile-time-checks
+  name: Compile Time Checks
+- id: postgresql
+  name: PostgreSQL
+- id: mysql
+  name: MySQL
+- id: sqlite
+  name: SQLite
+- id: secure
+  name: Secure
+- id: developer-friendly
+  name: Developer Friendly
+- id: database
+  name: Database

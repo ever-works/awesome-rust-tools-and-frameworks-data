@@ -44,33 +44,25 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 metadata:
   last_request_data:
     generation_method: create-update
     update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: Awesome Rust Tools and Frameworks
-    prompt: "A curated directory of Rust tools and frameworks: web frameworks (Axum,
-      Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI toolkits,
-      build and developer tooling (cargo plugins, linters, formatters, test and
-      benchmarking tools), ORMs and database drivers, serialization, networking
-      and HTTP clients, WebAssembly tooling, game and graphics engines, embedded
-      and systems tooling, and popular libraries/crates. Organize by category
-      (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling,
-      Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded,
-      GUI, Testing, Observability, Security, Data & ML) with tags for maturity,
-      license and use case. Focus on open-source, actively maintained projects
-      with documentation and real adoption (GitHub stars, crates.io downloads)."
+    prompt: A curated directory of Rust tools and frameworks. Add a few notable,
+      actively maintained open-source Rust projects (web frameworks, async
+      runtimes, CLI toolkits) with categories and tags.
     providers:
       pipeline: agent-pipeline
       search: tavily
       ai: openrouter
       contentExtractor: local-content-extractor
     pluginConfig:
-      target_items: 100
+      target_items: 5
       capture_screenshots: false
-      max_pages_to_process: 20
+      max_pages_to_process: 3
       target_keywords:
         - rust tools
         - rust frameworks
@@ -90,22 +82,14 @@ metadata:
     actively maintained projects with documentation and real adoption (GitHub
     stars, crates.io downloads)."
 name: Awesome Rust Tools and Frameworks
-initial_prompt: "A curated directory of Rust tools and frameworks: web
-  frameworks (Axum, Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI
-  toolkits, build and developer tooling (cargo plugins, linters, formatters,
-  test and benchmarking tools), ORMs and database drivers, serialization,
-  networking and HTTP clients, WebAssembly tooling, game and graphics engines,
-  embedded and systems tooling, and popular libraries/crates. Organize by
-  category (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling,
-  Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded, GUI,
-  Testing, Observability, Security, Data & ML) with tags for maturity, license
-  and use case. Focus on open-source, actively maintained projects with
-  documentation and real adoption (GitHub stars, crates.io downloads)."
+initial_prompt: A curated directory of Rust tools and frameworks. Add a few
+  notable, actively maintained open-source Rust projects (web frameworks, async
+  runtimes, CLI toolkits) with categories and tags.
 providers:
-  pipeline: standard-pipeline
+  pipeline: agent-pipeline
   search: tavily
-  contentExtractor: local-content-extractor
   ai: openrouter
+  contentExtractor: local-content-extractor
 website_repo: ever-works/awesome-rust-tools-and-frameworks-website
 deployProvider: vercel
 activity_sync:
