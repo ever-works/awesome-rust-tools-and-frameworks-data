@@ -1,14 +1,18 @@
 name: Actix Web
-description: Actix Web is a popular Rust backend framework known for its
-  type-safety, performance, and feature-rich ecosystem. It supports HTTP/2,
-  logging, and a broad set of middleware and extensions, and can be extended
-  with many crates for additional capabilities.
+description: Actix Web is a powerful, pragmatic, and extremely fast web
+  framework for Rust built on top of the Actix actor framework. It provides a
+  rich set of features including routing, middleware, request handlers, and
+  WebSocket support. Actix Web consistently ranks among the fastest web
+  frameworks in benchmarks, handling hundreds of thousands of requests per
+  second. It offers a flexible middleware system, strong type safety, and
+  supports both sync and async handlers. The framework is production-ready and
+  used by companies running high-traffic services.
 source_url: https://actix.rs/
 category: Web Frameworks
 tags:
-  - open-source
-  - rust
-  - web-framework
+  - High Performance
+  - Actor Model
+  - WebSocket
 featured: false
 markdown: >-
   ## Overview
@@ -34,4 +38,4 @@ markdown: >-
 
 
   An example demonstrates a simple server with routes and handlers.
-updated_at: 2026-08-23 08:46
+updated_at: 2026-08-23 23:15

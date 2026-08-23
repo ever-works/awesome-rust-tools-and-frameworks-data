@@ -1,13 +1,21 @@
 name: Rocket
-description: Rocket by far is the most popular Rust web framework. It is known
-  for its simplicity and ease of use. It is known for it's type safety,
-  boilerplate free, and extensibility.
+description: Rocket is a web framework for Rust that makes it simple to write
+  fast, secure web applications without sacrificing flexibility, usability, or
+  type safety. Rocket uses Rust's type system to guarantee correctness at
+  compile time, eliminating entire classes of runtime errors. It features an
+  intuitive request handling API, built-in templating, cookie handling, and form
+  validation. Rocket emphasizes developer experience with excellent
+  documentation and helpful error messages. Version 0.5 added full async/await
+  support, making it competitive with other modern Rust frameworks.
 source_url: https://rocket.rs/
 category: Web Frameworks
 tags:
-  - open-source
-  - rust
-  - web-framework
+  - Web Framework
+  - Type Safe
+  - Secure
+  - Async
+  - Developer Friendly
+  - Open Source
 featured: false
 markdown: >-
   ## Overview
@@ -36,4 +44,4 @@ markdown: >-
 
 
   Example shows a simple route mounted at "/".
-updated_at: 2026-08-23 08:46
+updated_at: 2026-08-23 23:15

@@ -1,15 +1,18 @@
 name: SeaORM
-description: SeaORM is a fully async-friendly Rust ORM that builds on SQLx,
-  abstracting raw SQL to provide a clean interface with derive macros and traits
-  for models. It includes a CLI for generating migrations, entities, and models,
-  and implements ActiveModel to extend model behavior. It aims for fast
-  compilation times and easy integration with frameworks like Axum.
+description: SeaORM is a relational ORM for Rust that helps build web services
+  quickly and productively. It provides an async-first API with full support for
+  PostgreSQL, MySQL, and SQLite. SeaORM features a powerful query builder,
+  migration system, and code generation tools. It supports entity relationships,
+  eager loading, and complex queries while maintaining type safety. Unlike
+  Diesel, SeaORM works without a separate schema file and supports compile-time
+  checked dynamic queries. It integrates well with Axum, Actix Web, and other
+  async frameworks.
 source_url: https://sea-ql.org
 category: Databases & ORMs
 tags:
-  - open-source
-  - async
   - orm
+  - async
+  - database
 featured: false
 markdown: >
   ## Overview
@@ -63,4 +66,4 @@ markdown: >
 
   - The Iden derive macro documentation is not clearly explained
 brand: SeaQL
-updated_at: 2026-08-23 08:46
+updated_at: 2026-08-23 23:15
