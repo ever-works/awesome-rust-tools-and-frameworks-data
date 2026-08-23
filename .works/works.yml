@@ -95,10 +95,10 @@ initial_prompt: "A curated directory of Rust tools and frameworks: web
   and use case. Focus on open-source, actively maintained projects with
   documentation and real adoption (GitHub stars, crates.io downloads)."
 providers:
-  pipeline: agent-pipeline
+  pipeline: standard-pipeline
   search: tavily
-  ai: openrouter
   contentExtractor: local-content-extractor
+  ai: openrouter
 website_repo: ever-works/awesome-rust-tools-and-frameworks-website
 deployProvider: vercel
 activity_sync:
