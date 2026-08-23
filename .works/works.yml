@@ -80,3 +80,5 @@ company_website: https://awesome-rust-tools-and-frameworks.ever.works
 logo:
   logo_image: https://raw.githubusercontent.com/ever-works/awesome-rust-tools-and-frameworks-data/master/pages/logo-light.png
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-rust-tools-and-frameworks-data/master/pages/logo-dark.png
+auth:
+  credentials: true
