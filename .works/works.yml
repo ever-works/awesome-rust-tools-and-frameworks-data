@@ -1,0 +1,105 @@
+company_name: Awesome Rust Tools and Frameworks
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+  header:
+    submit_enabled: true
+    pricing_enabled: true
+    layout_enabled: true
+    language_enabled: true
+    theme_enabled: true
+    layout_default: home1
+    pagination_default: standard
+    theme_default: light
+  homepage:
+    hero_enabled: true
+    search_enabled: true
+    default_view: classic
+    default_sort: popularity
+  footer:
+    subscribe_enabled: true
+    version_enabled: true
+    theme_selector_enabled: true
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0
+metadata:
+  last_request_data:
+    generation_method: create-update
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome Rust Tools and Frameworks
+    prompt: "A curated directory of Rust tools and frameworks: web frameworks (Axum,
+      Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI toolkits,
+      build and developer tooling (cargo plugins, linters, formatters, test and
+      benchmarking tools), ORMs and database drivers, serialization, networking
+      and HTTP clients, WebAssembly tooling, game and graphics engines, embedded
+      and systems tooling, and popular libraries/crates. Organize by category
+      (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling,
+      Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded,
+      GUI, Testing, Observability, Security, Data & ML) with tags for maturity,
+      license and use case. Focus on open-source, actively maintained projects
+      with documentation and real adoption (GitHub stars, crates.io downloads)."
+    providers:
+      pipeline: agent-pipeline
+      search: tavily
+      ai: openrouter
+      contentExtractor: local-content-extractor
+    pluginConfig:
+      target_items: 100
+      capture_screenshots: false
+      max_pages_to_process: 20
+      target_keywords:
+        - rust tools
+        - rust frameworks
+        - rust crates
+        - awesome rust
+    _processedPluginConfig: {}
+  initial_prompt: "A curated directory of Rust tools and frameworks: web
+    frameworks (Axum, Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and
+    TUI toolkits, build and developer tooling (cargo plugins, linters,
+    formatters, test and benchmarking tools), ORMs and database drivers,
+    serialization, networking and HTTP clients, WebAssembly tooling, game and
+    graphics engines, embedded and systems tooling, and popular
+    libraries/crates. Organize by category (Web Frameworks, Async & Networking,
+    CLI Tools, Developer Tooling, Databases & ORMs, Serialization, WebAssembly,
+    Game Development, Embedded, GUI, Testing, Observability, Security, Data &
+    ML) with tags for maturity, license and use case. Focus on open-source,
+    actively maintained projects with documentation and real adoption (GitHub
+    stars, crates.io downloads)."
+name: Awesome Rust Tools and Frameworks
+initial_prompt: "A curated directory of Rust tools and frameworks: web
+  frameworks (Axum, Actix, Rocket, Leptos, Dioxus), async runtimes, CLI and TUI
+  toolkits, build and developer tooling (cargo plugins, linters, formatters,
+  test and benchmarking tools), ORMs and database drivers, serialization,
+  networking and HTTP clients, WebAssembly tooling, game and graphics engines,
+  embedded and systems tooling, and popular libraries/crates. Organize by
+  category (Web Frameworks, Async & Networking, CLI Tools, Developer Tooling,
+  Databases & ORMs, Serialization, WebAssembly, Game Development, Embedded, GUI,
+  Testing, Observability, Security, Data & ML) with tags for maturity, license
+  and use case. Focus on open-source, actively maintained projects with
+  documentation and real adoption (GitHub stars, crates.io downloads)."
+providers:
+  pipeline: agent-pipeline
+  search: tavily
+  ai: openrouter
+  contentExtractor: local-content-extractor
+website_repo: ever-works/awesome-rust-tools-and-frameworks-website
+deployProvider: vercel
+activity_sync:
+  mode: pull
